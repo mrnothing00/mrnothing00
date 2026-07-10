@@ -2,14 +2,14 @@
 
 🎓 Fresh **Information Technology** graduate (Universiti Kuala Lumpur, 2026) and aspiring
 **AI Engineer**. I come from a **software & mobile development** background and I'm now focused
-on building **AI-powered applications** — LLMs, AI agents, and generative AI.
+on building **AI-powered applications** - LLMs, AI agents, and generative AI.
 
-🌏 Based in Malaysia — actively seeking **AI / software engineering internships**.
+🌏 Based in Malaysia - actively seeking **AI / software engineering internships**.
 
 I like turning ideas into working products, and I'm especially excited about applying AI to
 solve real, practical problems.
 
-🚀 I've shipped and published a mobile app **live on Google Play** — built with React Native & Expo. [→ see the repo](https://github.com/mrnothing00/4D-Prize-Calculator)
+🚀 I've shipped and published a mobile app **live on Google Play** - built with React Native & Expo. [→ see the repo](https://github.com/mrnothing00/4D-Prize-Calculator)
 
 ---
 
@@ -41,9 +41,9 @@ to grow into an AI engineering role.
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| 🤖 [Chin-Hin CTOS Agent](https://github.com/mrnothing00/Chin-Hin-Hackathon-CTOS-Agent) | AI agent built for the Chin-Hin × CTOS hackathon | JavaScript · AI/LLM |
+| 🤖 [Chin Hin AI Hackathon - CTOS Agent](https://github.com/mrnothing00/Chin-Hin-Hackathon-CTOS-Agent) | Multi-agent LLM copilot that automates B2B credit scoring - ingests CTOS reports & bank statements via an AI agent pipeline (Azure AI Foundry, GPT-4o) with a Human-in-the-Loop dashboard | LLM · Multi-Agent · GPT-4o |
 | ✨ [GeminiCraft](https://github.com/mrnothing00/GeminiCraft) | Generative-AI app powered by Google's Gemini API | JavaScript · Gemini API |
-| 🛣️ [IRAMS](https://github.com/mrnothing00/IRAMS-Intelligent-Roadside-Assistance-Management-System) | Final-year project: multi-platform roadside assistance — driver & contractor apps + admin portal, real-time GPS & payments | Flutter · ASP.NET · Firebase |
+| 🛣️ [IRAMS](https://github.com/mrnothing00/IRAMS-Intelligent-Roadside-Assistance-Management-System) | Final-year project: multi-platform roadside assistance - driver & contractor apps + admin portal, real-time GPS & payments | Flutter · ASP.NET · Firebase |
 | 🚌 [AFCT Bus Tracking App](https://github.com/mrnothing00/AFCT-Bus-Tracking-App) | Real-time school bus tracking with parent & driver roles | Flutter · Firebase |
 | 🚗 [Velora Car Rental](https://github.com/mrnothing00/velora-car-rental) | Car rental web app (team project) | React · Vite |
 
