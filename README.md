@@ -41,9 +41,9 @@ to grow into an AI engineering role.
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| 🤖 [Chin Hin AI Hackathon - CTOS Agent](https://github.com/mrnothing00/Chin-Hin-Hackathon-CTOS-Agent) | Multi-agent LLM copilot that automates B2B credit scoring - ingests CTOS reports & bank statements via an AI agent pipeline (Azure AI Foundry, GPT-4o) with a Human-in-the-Loop dashboard | LLM · Multi-Agent · GPT-4o |
-| ✨ [GeminiCraft](https://github.com/mrnothing00/GeminiCraft) | Generative-AI app powered by Google's Gemini API | JavaScript · Gemini API |
 | 🛣️ [IRAMS](https://github.com/mrnothing00/IRAMS-Intelligent-Roadside-Assistance-Management-System) | Final-year project: multi-platform roadside assistance - Flutter driver & contractor apps + ASP.NET admin portal, real-time GPS tracking (OpenStreetMap) with FPX & e-wallet payments | Flutter · ASP.NET · Firebase |
+| 🤖 [Chin Hin AI Hackathon - CTOS Agent](https://github.com/mrnothing00/Chin-Hin-Hackathon-CTOS-Agent) | Multi-agent LLM copilot that automates B2B credit scoring - ingests CTOS reports & bank statements via an AI agent pipeline (Azure AI Foundry, GPT-4o) with a Human-in-the-Loop dashboard | LLM · Multi-Agent · GPT-4o |
+| ✨ [GeminiCraft](https://github.com/mrnothing00/GeminiCraft) | AI-powered ESP32 IoT circuit simulator - drag-and-drop breadboard with a Gemini-powered AI tutor that debugs circuits & code in real time, plus a physics simulation engine | React · JavaScript · Gemini API |
 | 🚌 [AFCT Bus Tracking App](https://github.com/mrnothing00/AFCT-Bus-Tracking-App) | Real-time school bus tracking with parent & driver roles | Flutter · Firebase |
 | 🚗 [Velora Car Rental](https://github.com/mrnothing00/velora-car-rental) | Web-based luxury car rental platform - browse, filter & book premium vehicles with reviews, plus an admin dashboard for fleet, bookings & promotions (team project) | React · Vite |
 
