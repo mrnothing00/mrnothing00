@@ -9,6 +9,8 @@ on building **AI-powered applications** — LLMs, AI agents, and generative AI.
 I like turning ideas into working products, and I'm especially excited about applying AI to
 solve real, practical problems.
 
+🚀 I've shipped and published a mobile app **live on Google Play** — built with React Native & Expo. [→ see the repo](https://github.com/mrnothing00/4D-Prize-Calculator)
+
 ---
 
 ## 🛠️ Tech I work with
