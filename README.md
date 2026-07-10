@@ -50,11 +50,3 @@ to grow into an AI engineering role.
 ## 📫 Reach me
 - 📧 Email: **boonhong1201@gmail.com**
 - 💼 LinkedIn: **[Chan Boon Hong](https://www.linkedin.com/in/chan-boon-hong-0aa0b0226/)**
-
----
-
-## 📊 GitHub stats
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=mrnothing00&show_icons=true&theme=default)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mrnothing00&layout=compact)
-
-<!-- profile -->
