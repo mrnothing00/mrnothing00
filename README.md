@@ -56,3 +56,5 @@ to grow into an AI engineering role.
 ## 📊 GitHub stats
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=mrnothing00&show_icons=true&theme=default)
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mrnothing00&layout=compact)
+
+<!-- profile -->
