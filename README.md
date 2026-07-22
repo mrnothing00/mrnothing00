@@ -15,25 +15,40 @@ solve real, practical problems.
 
 ## 🛠️ Tech I work with
 
+**AI & LLMs**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=flat&logo=googlegemini&logoColor=white)
+![Anthropic Claude](https://img.shields.io/badge/Anthropic%20Claude-D97757?style=flat&logo=anthropic&logoColor=white)
+![OpenAI GPT-4o](https://img.shields.io/badge/OpenAI%20GPT--4o-412991?style=flat&logo=openai&logoColor=white)
+![Azure AI](https://img.shields.io/badge/Azure%20AI-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-5A2D82?style=flat)
+![Multi-Agent Systems](https://img.shields.io/badge/Multi--Agent%20Systems-2E7D32?style=flat)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-663399?style=flat)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+
+**Languages & frameworks**
+
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=flat&logo=googlegemini&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 ## 🤖 Currently exploring
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![LLMs](https://img.shields.io/badge/LLMs%20%26%20AI%20Agents-412991?style=flat&logo=openai&logoColor=white)
 
-Deepening my skills in **Python, machine learning, LLMs, AI agents and prompt engineering**
-to grow into an AI engineering role.
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF4088?style=flat)
+
+Building depth on the **classical machine-learning** side of AI - model training, evaluation and data workflows with **PyTorch, TensorFlow, scikit-learn and Pandas** - to complement my hands-on experience shipping **LLM and generative-AI applications**.
 
 ---
 
@@ -41,7 +56,7 @@ to grow into an AI engineering role.
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| 🛣️ [IRAMS](https://github.com/mrnothing00/IRAMS-Intelligent-Roadside-Assistance-Management-System) | Final-year project: multi-platform roadside assistance - Flutter driver & contractor apps + ASP.NET admin portal, real-time GPS tracking (OpenStreetMap) with FPX & e-wallet payments | Flutter · ASP.NET · Firebase |
+| 🛣️ [IRAMS - Intelligent Roadside Assistance Management System](https://github.com/mrnothing00/IRAMS-Intelligent-Roadside-Assistance-Management-System) | Final-year project: multi-platform roadside assistance - Flutter driver & contractor apps + ASP.NET admin portal, a 5-second bidding-raffle dispatch, real-time GPS tracking (OpenStreetMap), and FPX/cash payments via ToyyibPay | Flutter · ASP.NET · Firebase |
 | 🤖 [Chin Hin AI Hackathon - CTOS Agent](https://github.com/mrnothing00/Chin-Hin-Hackathon-CTOS-Agent) | Multi-agent LLM copilot that automates B2B credit scoring - ingests CTOS reports & bank statements via an AI agent pipeline (Azure AI Foundry, GPT-4o) with a Human-in-the-Loop dashboard | LLM · Multi-Agent · GPT-4o |
 | ✨ [GeminiCraft](https://github.com/mrnothing00/GeminiCraft) | AI-powered ESP32 IoT circuit simulator - drag-and-drop breadboard with a Gemini-powered AI tutor that debugs circuits & code in real time, plus a physics simulation engine | React · JavaScript · Gemini API |
 | 🚌 [AFCT Bus Tracking App](https://github.com/mrnothing00/AFCT-Bus-Tracking-App) | Real-time school bus tracking with parent & driver roles | Flutter · Firebase |
