@@ -6,10 +6,11 @@ on building **AI-powered applications** - LLMs, AI agents, and generative AI.
 
 🌏 Based in Malaysia - actively seeking **AI / software engineering internships**.
 
-I like turning ideas into working products, and I'm especially excited about applying AI to
-solve real, practical problems.
+I like turning ideas into working products, and I'm especially drawn to building **reliable AI systems** - pairing LLMs with deterministic logic so outputs can be trusted, not just generated.
 
 🚀 I've shipped and published a mobile app **live on Google Play** - built with React Native & Expo. [→ see the repo](https://github.com/mrnothing00/4D-Prize-Calculator)
+
+🏆 **Most Creative Award**, Chin Hin AI Hackathon 2026 - for an AI credit-assessment copilot built on Microsoft AI Foundry.
 
 ---
 
@@ -57,9 +58,9 @@ Building depth on the **classical machine-learning** side of AI - model training
 | Project | Description | Stack |
 |---------|-------------|-------|
 | 🛣️ [IRAMS - Intelligent Roadside Assistance Management System](https://github.com/mrnothing00/IRAMS-Intelligent-Roadside-Assistance-Management-System) | Final-year project: multi-platform roadside assistance - Flutter driver & contractor apps + ASP.NET admin portal, a 5-second bidding-raffle dispatch, real-time GPS tracking (OpenStreetMap), and FPX/cash payments via ToyyibPay | Flutter · ASP.NET · Firebase |
-| 🤖 [Chin Hin AI Hackathon - CTOS Agent](https://github.com/mrnothing00/Chin-Hin-Hackathon-CTOS-Agent) | Multi-agent LLM copilot that automates B2B credit scoring - ingests CTOS reports & bank statements via an AI agent pipeline (Azure AI Foundry, GPT-4o) with a Human-in-the-Loop dashboard | LLM · Multi-Agent · GPT-4o |
+| 🤖 [Chin Hin AI Hackathon - CTOS Agent](https://github.com/mrnothing00/Chin-Hin-Hackathon-CTOS-Agent) | **Most Creative Award winner** - a multi-agent LLM copilot that automates B2B credit scoring: ingests CTOS reports & bank statements, extracts and scores data against a deterministic matrix, with a human-in-the-loop dashboard (Azure AI Foundry, GPT-4o) | LLM · Multi-Agent · GPT-4o |
+| 📡 [TelecoMaid](https://github.com/mrnothing00/TelecoMaid) | KitaHack 2026 project that turns a 3-day manual RF link-planning workflow into a 15-second AI pipeline - Gemini 2.5 Flash extracts topology from hand-drawn site sketches while all deterministic RF math runs in a FastAPI backend to eliminate hallucinated engineering values, backed by Google Earth Engine terrain data and a procurement-ready Bill of Materials | Python · FastAPI · Gemini · Google Earth Engine |
 | ✨ [GeminiCraft](https://github.com/mrnothing00/GeminiCraft) | AI-powered ESP32 IoT circuit simulator - drag-and-drop breadboard with a Gemini-powered AI tutor that debugs circuits & code in real time, plus a physics simulation engine | React · JavaScript · Gemini API |
-| 🚌 [AFCT Bus Tracking App](https://github.com/mrnothing00/AFCT-Bus-Tracking-App) | Real-time school bus tracking with parent & driver roles | Flutter · Firebase |
 | 🚗 [Velora Car Rental](https://github.com/mrnothing00/velora-car-rental) | Web-based luxury car rental platform - browse, filter & book premium vehicles with reviews, plus an admin dashboard for fleet, bookings & promotions (team project) | React · Vite |
 
 ---
