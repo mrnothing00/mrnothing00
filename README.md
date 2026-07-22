@@ -1,6 +1,6 @@
 # Hi, I'm Chan Boon Hong 👋
 
-🎓 Fresh **Information Technology** graduate (Universiti Kuala Lumpur, 2026) and aspiring
+🎓 Final-year **Software Engineering** student at **Universiti Kuala Lumpur (MIIT)**, graduating 2027 and aspiring
 **AI Engineer**. I come from a **software & mobile development** background and I'm now focused
 on building **AI-powered applications** - LLMs, AI agents, and generative AI.
 
